@@ -1,0 +1,2 @@
+all checks passes
+100% code quality
